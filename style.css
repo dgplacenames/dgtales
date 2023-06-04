@@ -82,7 +82,7 @@ span.sc {
 }
 
 .poem {
-      display: table;
+      display: table.center;
       margin-right: auto;
       margin-left: auto;
     }
