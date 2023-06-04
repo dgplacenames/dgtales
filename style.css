@@ -33,6 +33,7 @@ main {
 }
 h1 {
   font-weight: normal;
+  font-variant: small-caps;
   text-align: center;
   font-size: 18pt;
   line-height: 24pt;
@@ -41,6 +42,7 @@ h1 {
 }
 h2 {
   font-weight: normal;
+  font-variant: small-caps;
   font-size: 16pt;
   line-height: 24pt;
   margin: 2em 0 1em 0;
