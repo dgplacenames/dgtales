@@ -80,3 +80,20 @@ em {
 span.sc {
   font-variant: small-caps;
 }
+
+.poem {
+      display: table;
+      margin-right: auto;
+      margin-left: auto;
+    }
+    
+    .stanza {
+      text-indent: 0;
+      margin-left: 1em;
+    }
+    .verse {
+      margin-left: -1em;
+    }
+  .verse1 {
+      margin-left: 1em;
+    }
