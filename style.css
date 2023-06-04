@@ -76,3 +76,7 @@ q q.noclose::after {
 em {
   font-style: italic;
 }
+
+span.sc {
+  font-variant: small-caps;
+}
