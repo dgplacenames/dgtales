@@ -4,7 +4,6 @@
 body {
   display: flex;
   justify-content: space-around;
-
   font-family: 'Noto Serif';
   font-size: 13pt;
   line-height: 20pt;
