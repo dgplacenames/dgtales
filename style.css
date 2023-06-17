@@ -94,12 +94,14 @@ span.sc {
 }
 
 .poem {
-      display: table.center;
+      text-align: center;
       margin-right: auto;
       margin-left: auto;
     }
     
     .stanza {
+      display: inline-block;
+      text-align: left;
       text-indent: 0;
       margin-left: 1em;
     }
