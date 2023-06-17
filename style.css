@@ -100,7 +100,6 @@ span.sc {
     }
     
     .stanza {
-      display: inline-block;
       text-align: left;
       text-indent: 0;
       margin-left: 1em;
